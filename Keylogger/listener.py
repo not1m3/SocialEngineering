@@ -1,6 +1,6 @@
-################################
-# Alan Bovo, Simone Ceccarelli #
-################################
+######################
+# not1m3, NullPh0bia #
+######################
 
 from pwn import *   #uso la libreria
 

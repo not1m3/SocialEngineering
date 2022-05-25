@@ -1,6 +1,6 @@
-################################
-# Alan Bovo, Simone Ceccarelli #
-################################
+######################
+# not1m3, NullPh0bia #
+######################
 
 from pynput.keyboard import Key, Listener   #uso le librerie
 from pwn import *   #uso le librerie
